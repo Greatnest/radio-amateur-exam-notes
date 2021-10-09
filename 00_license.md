@@ -30,6 +30,7 @@
 		- Radio Receivers and Transmitters
 		- Propagation and Aerials
 		- Measurement
+- \>= 60% in both sections or fail both
 
 ---
 
@@ -345,12 +346,12 @@ More Examples:
 | |
 | 18 | QSA | signals | What is the **strength** of my signals? | The strength of your signals is (a) scarcely perceptible, (b) weak, (c\) fairly good, (d) good, (e) very good
 | 19 | QSB | signals | Are my signals **fading**? | Your signals are fading
-| 20 | QSD | signals | Are my signals mutilated? | Your signals are mutilated
-| 21 | QSL | communicate | Can you acknowledge receipt? | I am acknowledging receipt
-| 22 | QSO | communicate | Can you communicate with ___ direct? | I can communication with ___ direct
-| 23 | QSP | communicate | Will you relay to ___ | I will relay to ___
-| 24 | QSV | communicate | Shall I send a series of V's for adjustment on this frequency? | Send a series of V's.
-| 25 | QSZ | communicate | Shall I send each word or group more than once? | Send each word or group twice
+| 20 | QSD | signals | Are my signals **mutilated**? | Your signals are mutilated
+| 21 | QSL | communicate | Can you **acknowledge receipt**? | I am acknowledging receipt
+| 22 | QSO | communicate | Can you communicate with ___ direct? | I can communicate with ___ direct
+| 23 | QSP | communicate | Will you **relay to** ___ | I will relay to ___
+| 24 | QSV | communicate | Shall I send a **series of V's for adjustment** on this frequency? | Send a series of V's.
+| 25 | QSZ | communicate | Shall I **send each word or group more than once**? | Send each word or group twice
 | |
-| 26 | QTH | location | What is your location? | My location is ___
-| 27 | QTR | time | What is the correct time? | The correct time is ___ hours.
+| 26 | QTH | location | What is **your location**? | My location is ___
+| 27 | QTR | time | What is the **correct time**? | The correct time is ___ hours.
