@@ -40,7 +40,7 @@ Working with big numbers
 
 ### Frequency Spectrum
 
-- Sound → Radio → Heat → Infra-red → Light → Ultra-violet → X-Ray (↑ frequency)
+- Sound → Radio → Heat → Infra-red → Light → Ultra-violet → X-Ray (increasing frequency)
 - Useful radio frequencies range from about `10 KHz` to beyond `30 GHz`
 - Each part of the radio frequency spectrum has its own characteristics
 - Only a small range of frequencies are suitable for certain popular activities
@@ -53,11 +53,11 @@ Other services using the radio spectrum: *Shipping, Aircraft, Military, Citizens
 | | Wavelength range | Frequency range  | Name | Amateur bands | Uses
 | --- | --- | --- | --- | --- | ---
 | 1 | `10 km` – `1 km`| `30 kHz` – `300 kHz`  | `LF` <br> (Low frequency)  | None | Low
-| 2 | `1 km` – `100 m`| `300 kHz` – `3 MHz`  | `MF` <br> (Medium frequency)  | `1.8 MHz` (`160m`) | Amateur Radio <br><br> AM Broadcasting <br> (not as common now)
-| 3 |` 100 m` – `10 m`| `3 MHz` - `30 MHz` | `HF` <br> (High frequency)  | `3.5 MHz` (`80m`) <br> `7 MHz` (`40m`) <br> `10 MHz` (`30m`) <br> `14 MHz` (`20m`) <br> `18 MHz` <br> `21 MHz` <br> `24 MHz` <br> `28 MHz` | Broadcast short wave bands <br> Amateur Radio
-| 4 | `10 m` - `1 m`| `30 MHz` - `300 MHz` | `VHF` <br> (Very high frequency)  | `144 MHz `  | Broadcast (FM, TV) <br> Amateur Radio
-| 5 |`1 m` - `100 mm` | `300 MHz` - `3 GHz` | `UHF` <br> (Ultra high frequency)  | `430 MHz`(`70cm`)| Amateur Radio <br> Microwave ovens <br> television, WiFi
-| 6 | `<100mm` | above `3000 MHz` | `SHF` <br> (Super high frequency)  |  | Radio astronomy <br> microwave devices <br> WiFi <br> radar |
+| 2 | `1 km` – `100 m`| `300 kHz` – `3 MHz`  | `MF` <br> (Medium frequency)  | `1.8 MHz` (`160m`) | - Amateur Radio <br> - AM Broadcasting <br> (not as common now)
+| 3 |` 100 m` – `10 m`| `3 MHz` - `30 MHz` | `HF` <br> (High frequency)  | `3.5 MHz` (`80m`) <br> `7 MHz` (`40m`) <br> `10 MHz` (`30m`) <br> `14 MHz` (`20m`) <br> `18 MHz` <br> `21 MHz` <br> `24 MHz` <br> `28 MHz` | - Broadcast short wave bands <br> - Amateur Radio
+| 4 | `10 m` - `1 m`| `30 MHz` - `300 MHz` | `VHF` <br> (Very high frequency)  | `144 MHz `  | - Broadcast (FM, TV) <br> - Amateur Radio
+| 5 |`1 m` - `100 mm` | `300 MHz` - `3 GHz` | `UHF` <br> (Ultra high frequency)  | `430 MHz`(`70cm`)|  Amateur Radio <br> - Microwave ovens <br> - Television <br> -  WiFi
+| 6 | `<100mm` | above `3 GHz` | `SHF` <br> (Super high frequency)  |  | - Radio astronomy <br> - Microwave devices <br> - WiFi <br> - Radar |
 
 Challenges in hearing a station due to:
 

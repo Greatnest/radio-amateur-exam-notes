@@ -30,7 +30,8 @@
 		- Radio Receivers and Transmitters
 		- Propagation and Aerials
 		- Measurement
-- \>= 60% in both sections or fail both
+- 21 in Section I
+- 36 in Section II
 
 ---
 
@@ -46,16 +47,10 @@
 ### License fee
 
 - license is **renewable every 5 years**
-- license fee currently is $100
+- license fee currently is $100 (General Class), $50 (Restricted Class)
 - license fee must be **paid within 7 days of expiry** of the license
   - Late fees will be applicable afterwards.
 - IMDA has waived the frequency application, processing fee and annual frequency usage fee
-
-##### Important note:
-- Admittedly, as of now, the exam is very old.
-- Also, the current 2016 IMDA Handbook still reflects that the license is renewable **annually** and fee is **$50**
-- Please check the IDA Handbook for any updates pertaining to changes in syllabus or regulations.
-  - Advised to follow latest IMDA Handbook in regards to this.
 
 ### Amateur Station License
 
@@ -65,7 +60,7 @@
 
 ### Operation of an Amateur Ratio Station
 
-- Observer and comply with
+- Observe and comply with
 	- relevant provisions of the Telecommunications (Radio-communication) Regulations
 	- relevant provisions of the Radio Regulations of the ITC
 - amateur station license shall be displayed, in close proximity of the equipment, at the station's licensed address
@@ -172,7 +167,7 @@
 - **serially numbered**
 - **date and time of commencement and ending** of every call made from the station
 - call-signs of the stations from which messages addressed to
-- **time (local or GMT)** of the commencement and termination
+- **time (local or GMT)** of the commencement and termination of radio traffic
 - **test transmissions** of the station
 - frequency band(s) and class or classes of emission in each case
 	- frequency in `MHz`
@@ -205,7 +200,7 @@
 - transmitter output power of the portable station shall not exceed `10 watts (erp)`
 - licence may be modified or revoked at any time by IMDA without assigning any reason therefor
 - it is readily movable from place to place to be operated therefrom
-- station fee of $50.00 per mobile/portable station is **waived**
+- station fee of $50.00 per mobile/portable station is **waived** unless the only station operated
 - station shall be closed down at any time on the demand of an authorised officer acting under the authority of IMDA
 
 ### Frequency checking equipment in amateur stations
@@ -225,7 +220,7 @@
 - Frequency measuring equipment
 	- should be of sufficient accuracy
 		- an accuracy of `±1.0%`: operation in the centre of the `21.0 MHz - 21.45 MHz` band
-		- an accuracy of `±0.05%`: `10 kHz` of band-edge
+		- an accuracy of `±0.05%`:operation within `10 kHz` of band-edge
 	- verify that emissions are within the authorised frequency bands
 - Heterodyne wavemeters and crystal calibrators
 	- frequencies up to `4 MHz`: `100 kHz` crystal is usually adequate
@@ -247,11 +242,11 @@
 | - shared by other services <br> - RTTY may not be used | `1.8 - 2.0` | A1A, A1B, <br> A2A, A2B <br><br> F1A, F1B, F2A, F2B <br><br> A3E, R3E, G3E, H3E, J3E, F3E | 10 watts | 26.67 watts
 | - shared by other services | `3.5 - 3.9` | same as above | 300 watts | 800 watts
 | band `10.1 - 10.15` <br> is allocated on secondary basis | `7 - 7.10`, <br> `10.1 - 10.15`, <br> `14 - 14.35`, <br> `18.068 - 18.168`, <br> `21 - 21.45`, <br> `24.890 - 24.990`, <br> `28 - 29.7` | same as above | 300 watts | 800 watts
-| - need consent from IDA <br> - CW operators use the lower band <br> - other classes of emission use the mid and upper band | `144 – 146` | same as above | - | 25 watts |
-| - need consent from IDA (include power, conditions, operations) <br> - shared by other services <br> - only certain spot Frequencies are allocated in Amateur Service -  |  `430 – 440` | same as above | - | Table below
-| same as above |  `1240 - 1300`, <br> `2300 - 2450`, <br> `3300 - 3500`, <br> `5650 - 5850`, <br> `10000 - 10500` | same as above | | Subject to licensing conditions
-| same as above | `24,000 - 24,050` <br> `24,050 - 24,250` | same as above |  | Subject to licensing conditions
-| same as above | `2,350 - 2,400`, `5,700 - 5,800` | K1A, K2A, L2A, K2E and L3E | - | As above
+| - need consent from IDA (include power, conditions, operations) <br> - CW operators use the lower band <br> - other classes of emission use the mid and upper band | `144 – 146` | same as above | - | 25 watts |
+| - need consent from IDA (include power, conditions, operations) <br> - only certain spot Frequencies are allocated in Amateur Service |  `430 – 440` | same as above | - | Table below
+| - band is allocated on secondary basis <br> - shared by other services <br> - Only certain spot frequencies are allocated for use through written application <br> - need consent from IDA (include power, conditions, operations) |  `1240 - 1300`, <br> `2300 - 2450`, <br> `3300 - 3500`, <br> `5650 - 5850`, <br> `10000 - 10500` | same as above | | Subject to licensing conditions
+| same as above (24,000 - 24,050 only needs the consent) | `24,000 - 24,050` <br> `24,050 - 24,250` | same as above |  | Subject to licensing conditions
+| same as above | `2,350 - 2,400`, `5,700 - 5,800`, `10,050 - 10,450`| K1A, K2A, L2A, K2E and L3E | - | As above
 
 ##### Band plan and spot frequency
 
@@ -301,23 +296,23 @@ More Examples:
 
 | No. | Type | Symbol | Description
 | --- | --- | --- | ---
-| 1 | Amplitude Modulation | A1A | Morse telegraphy
-| 2 | Amplitude Modulation | A1B | Teletype telegraphy
-| 3 | Amplitude Modulation | A2A | Morse telegraphy
-| 4 | Amplitude Modulation | A2B | Teletype telegraphy
+| 1 | Amplitude Modulation | A1A | Morse telegraphy without the use of modulating audio frequency
+| 2 | Amplitude Modulation | A1B | Teletype telegraphy without the use of modulating audio frequency
+| 3 | Amplitude Modulation | A2A | Morse telegraphy with the use of modulating audio frequency
+| 4 | Amplitude Modulation | A2B | Teletype telegraphy with the use of modulating audio frequency
 | 5 | Amplitude Modulation | A3E | Telephony, double-sideband
 | 6 | Amplitude Modulation | R3E | Telephony, single-sideband, reduced carrier
 | 7 | Amplitude Modulation | H3E | Telephony, single-sideband, full carrier
 | 8 | Amplitude Modulation | J3E | Telephony, single-sideband, suppressed carrier
 | |
-| 1 | Frequency Modulation | F1A | Morse telegraphy by frequency-shift keying
-| 2 | Frequency Modulation | F1B | Teletype telegraphy by frequency-shift keying
+| 1 | Frequency Modulation | F1A | Morse telegraphy by frequency-shift keying without modulating audio frequency
+| 2 | Frequency Modulation | F1B | Teletype telegraphy by frequency-shift keying ithout modulating audio frequency
 | 3 | Frequency Modulation | F2A | Morse telegraphy by on-off keying of frequency-modulating audio frequency
 | 4 | Frequency Modulation | F2B | Teletype telegraphy by on-off keying of frequency-modulating audio frequency
 | 5 | Frequency Modulation | F3E | Telephony by frequency modulation
 | 6 | Frequency Modulation | G3E | Telephony by phase modulation
 | |
-| 1 | Pulse Modulation | K1A | Telegraphy by on-off keying of a pulse carrier
+| 1 | Pulse Modulation | K1A | Telegraphy by on-off keying of a pulse carrier without modulating audio frequency
 | 2 | Pulse Modulation | K2A | - Telegraphy by on-off keying of a modulating audio frequency or frequencies or by on-off keying of a modulated pulse carrier <br> - the audio frequency or frequencies modulating the amplitude of the pulses.
 | 3 | Pulse Modulation | L2A | - Telegraphy by on-off keying of a modulating audio frequency or frequencies or by on- off keying of a modulated pulsed carrier <br> - the audio frequency of frequencies modulating the width (or duration) of the pulses.
 | 4 | Pulse Modulation | K2E | Telephony, amplitude modulated pulses
@@ -327,20 +322,21 @@ More Examples:
 
 | | | Type | Question | Answer
 | --- | --- | --- | --- | ---
-| 1 |QRG | frequency | Will you tell me my **exact frequency**? | Your exact frequency is ____ kHz
-| 2 |QRH | frequency | Does my **frequency vary**? | Your frequency varies
-| 3 |QRI | frequency | What is the **tone of my transmission**? | The tone of your transmission is (a) good, (b) variable, (c\) bad
-| x |QRJ | x | x
-| 5 |QRK | interference | What is the **intelligibility** of my signals? | The intelligibility of your signals is (a) bad, (b) poor, (c\) fair, (d) good, (e) excellent
-| 6 |QRL | interference | Are you **busy**? | I am busy. Please do not interfere.
-| 7 |QRM | interference | Is my transmission being **interfered** with? | Your transmission is being interfered with (a) nil, (b) slightly, (c\) moderately, (d) severely, (e) extremely
-| 8 |QRN | interference | Are you troubled by **static**? | I am troubled by static (a) nil, (b) slightly, (c) moderately, (d) severely, (e) extremely
-| 9 | QRO | power | Shall I **increase transmitter power**? | Increase transmitter power
-| 10 | QRP | power | Shall I **decrease transmitter power**? | Decrease transmitter power
-| 11 | QRQ | speed | Shall I send **faster**? | Send faster ( ___ words per minute)
-| 12 | QRS | speed | Shall I send **slowly**? | Send more slowly ( ___ words per minute)
-| 13 | QRT | speed | Shall I **stop** sending? | Stop sending
-| 14 | QRU | call | Are you **ready**? | I am ready
+| 1 | QRA | communicate | What is the name (or call sign) of your station?	| The name (or call sign) of my station is ____
+| 2 |QRG | frequency | Will you tell me my **exact frequency**? | Your exact frequency is ____ kHz
+| 3 |QRH | frequency | Does my **frequency vary**? | Your frequency varies
+| 4 |QRI | frequency | What is the **tone of my transmission**? | The tone of your transmission is (a) good, (b) variable, (c\) bad
+| 5 |QRJ | communicate | How many voice contacts do you want to make?	| I want to make ____ voice contacts.
+| 6 |QRK | interference | What is the **intelligibility** of my signals? | The intelligibility of your signals is (a) bad, (b) poor, (c\) fair, (d) good, (e) excellent
+| 7 |QRL | interference | Are you **busy**? | I am busy. Please do not interfere.
+| 8 |QRM | interference | Is my transmission being **interfered** with? | Your transmission is being interfered with (a) nil, (b) slightly, (c\) moderately, (d) severely, (e) extremely
+| 9 |QRN | interference | Are you troubled by **static**? | I am troubled by static (a) nil, (b) slightly, (c) moderately, (d) severely, (e) extremely
+| 10 | QRO | power | Shall I **increase transmitter power**? | Increase transmitter power
+| 11 | QRP | power | Shall I **decrease transmitter power**? | Decrease transmitter power
+| 12 | QRQ | speed | Shall I send **faster**? | Send faster ( ___ words per minute)
+| 13 | QRS | speed | Shall I send **slowly**? | Send more slowly ( ___ words per minute)
+| 14 | QRT | speed | Shall I **stop** sending? | Stop sending
+| 15 | QRU | call | Are you **ready**? | I am ready
 | 16 | QRX | call | When will you call me **again**? | I will call you again at ___ hours on ___ kHz
 | 17 | QRZ | call | **Who** is calling me? | You are being called by ___ on ___ kHz
 | |
