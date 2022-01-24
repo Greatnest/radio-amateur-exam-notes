@@ -108,6 +108,8 @@ Material categories:
 - Resistance is dictated by the resistance and thickness of the coating or film
 
 Band colors:
+![](img/resistor-band-code.webp)
+> Image credit: [https://www.digikey.sg](https://www.digikey.sg/en/articles/big-boys-race-young-girls-violet-wins-resistors-color-codes)
 
 - 1st ring is first digit, 2nd ring is second digit
   - Black = 0
@@ -120,13 +122,15 @@ Band colors:
   - Violet = 7
   - Grey = 8
   - White = 9
-- 3rd ring is the number of zeros
+- 3rd ring is the number of zeros (Multiplier)
 - 4th ring is the tolerance
   - Brown = 1%
   - Red = 2%
   - Gold = 5%
   - Silver = 10%
   - No Colour = 25%
+  
+- Big Boys Race Our Young Girls But Violet Generally Wins
 
 #### Power ratings
 
@@ -142,9 +146,9 @@ Band colors:
 - When testing a transmitter, the antenna may be often replaced by a **dummy load**
 - It is a resistor/set of resistors designed to **match the output impedance of the transmitter** and be capable of **absorbing its full power output**
 - Wire-wound resistors have a high power dissipation capacity, **but are not used as RF dummy loads** as it presents a reactive load to the transmitter.
-- In order that the heat is efficiently dissipated, It is usual to **immerse the resistors in oil**
-- oil will conduct the heat but not electricity
-- a small breathing hole in the can prevents the build up of pressure as the temperature rises
+- To ensure that the heat is efficiently dissipated, It is usual to **immerse the resistors in oil**
+- The oil will conduct the heat but not electricity
+- A small breathing hole in the can prevents the build up of pressure as the temperature rises
 
 #### Potentiometers
 
@@ -159,8 +163,8 @@ Band colors:
 
 - Voltage at the terminal of the cell would drop a little when the current is flowing
 - Cell, although producing the voltage, is not a perfect conductor
-- high internal resistance - dry cell
-- low internal resistance - lead acid secondary cell, generators
+- High internal resistance - dry cell
+- Low internal resistance - lead acid secondary cell, generators
 
 ### Magnetism
 
@@ -177,7 +181,7 @@ Band colors:
 ### Electricity and Magnetism
 
 - A wire carrying an electric current will have a magnetic field around it
-- Strength of a magnetic field ∝ Current flowing through the wire
+- Strength of a magnetic field ∝ (directly proportional) current flowing through the wire
 - Strength of the electromagnetic field will depend on:
   - number of turns in the coil
   - current in the coil
@@ -189,11 +193,11 @@ Band colors:
 
 - Permanent magnet, with its pole pieces, attracts the diaphragm giving a slight concave shape
 - When a speech carrying current, flows through the coils the magnetic attraction will vary
-- diaphragm move in sympathy with the speech
+- Diaphragm move in sympathy with the speech
 
 ##### Loud speaker
 
-- The coil ( and cone ) is mounted so that it will move freely in the strong magnetic field produced by the permanent magnet
+- The coil (and cone) is mounted so that it will move freely in the strong magnetic field produced by the permanent magnet
 - Circular magnet has its **north pole in the centre** and its **south pole round the edge**
 - Current in the speech coil generates a magnetic field that will interact with the fixed magnetic field
 - Coil and the cone will move in sympathy with the speech currents

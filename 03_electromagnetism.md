@@ -3,7 +3,7 @@
 ## Definitions
 
 - **Mutual Inductance** is the principle of transformers where a **changing current** in primary circuit can **induce a voltage** into a secondary circuit
-- **Lenz's Law** states that when the current through an inductor changes the voltage induced in it is in such a direction as to oppose the original change
+- **Lenz's Law** states that the direction of the current induced in a conductor by a changing magnetic field (as per Faraday’s law of electromagnetic induction) is such that the magnetic field created by the induced current opposes the initial changing magnetic field which produced it
 - Currents circulating in the core are known as **eddy currents**.
 - **Impedance matching** is the practice of designing the input impedance of an electrical load or the output impedance of its corresponding signal source to *maximize the power transfer* or minimize signal reflection from the load.
 
@@ -31,9 +31,9 @@ Voltages induced:
 
 Electricity is produced when:
 
-- **magnetic field is moving** across the wires of the coil
-- magnet could be fixed and the **coil is moving** across the magnetic field
-- **relative movement** is necessary
+- **Magnetic field is moving** across the wires of the coil
+- Magnet could be fixed and the **coil is moving** across the magnetic field
+- **Relative movement** is necessary
 
 ### Generator
 
@@ -63,10 +63,10 @@ opposition
 ### Inductors
 
 - The value of an inductance depends mainly on the number of turns in the coil and the core
-- inductance increase by
+- Inductance increase by
   - more turns of wire
   - inserting an iron or **ferrite core**
-- inductance reduced by
+- Inductance reduced by
   - lesser turns
   - removing the ferrous core
   - **brass core** will actually reduce the inductance below the air core value
