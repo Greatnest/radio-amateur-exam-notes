@@ -62,8 +62,8 @@
 ### Operation of an Amateur Ratio Station
 
 - Observe and comply with
-	- relevant provisions of the Telecommunications (Radio-communication) Regulations
-	- relevant provisions of the Radio Regulations of the ITC
+	- Relevant provisions of the Telecommunications (Radio-communication) Regulations
+	- Relevant provisions of the Radio Regulations of the ITC
 - Amateur station license shall be displayed, in close proximity of the equipment, at the station's licensed address
 - Transmitting frequency bands allowed of an amateur radio station shall be at the discretion of IMDA
 - Frequency within the limits prescribed by the Radio Regulations, annexed to ITC of the ITU
@@ -76,53 +76,53 @@
 
 ### Operational conditions for the Station
 
-- operated at locations approved by IMDA
-- operated in the presence of the licensee
-- licensee will be responsible for the proper operations of the station
-- tuning of the transmitter must ensure a **high degree of accuracy**
-- all emissions must be **within the authorised bands**
-- **no appreciable energy is radiated outside** the frequency limits
-- a satisfactory method of **frequency stabilisation**
+- Operated at locations approved by IMDA
+- Operated in the presence of the licensee
+- Licensee will be responsible for the proper operations of the station
+- Tuning of the transmitter must ensure a **high degree of accuracy**
+- All emissions must be **within the authorised bands**
+- **No appreciable energy is radiated outside** the frequency limits
+- A satisfactory method of **frequency stabilisation**
 - Equipment must be capable of verifying that the emissions are within the authorised bands
-- station shall always be equipped with **receiving as well as transmitting** equipment
-- all equipment must be **erected, fixed, placed and used**
-- equipment should not interfere with the efficient and convenient working of other authorised stations
-- must seek **approval of any change** of equipment, antenna installation, location and address
-- the licensee must **identify the transmission of a call sign** assigned to him by IMDA at the **beginning and end** of each period of transmission
+- Station shall always be equipped with **receiving as well as transmitting** equipment
+- All equipment must be **erected, fixed, placed and used**
+- Equipment should not interfere with the efficient and convenient working of other authorised stations
+- Must seek **approval of any change** of equipment, antenna installation, location and address
+- The licensee must **identify the transmission of a call sign** assigned to him by IMDA at the **beginning and end** of each period of transmission
 
 ### Transmission, Procedure & Limitation
 
-- station may be operated at any time
-- maximum of `10 minutes` of continuous transmission
-- messages are
-	- allowed
-		- sent in plain language
-		- relate solely to the licensee's experiments / personal affairs
-	- not allowed
-		- cannot relate to business affairs or transactions
-		- cannot be grossly offensive / indecent / obscene character
-- station cannot send:
+- Station may be operated at any time
+- Maximum of `10 minutes` of continuous transmission
+- Messages are
+	- Allowed
+		- Sent in plain language
+		- Relate solely to the licensee's experiments / personal affairs
+	- Not allowed
+		- Cannot relate to business affairs or transactions
+		- Cannot be grossly offensive / indecent / obscene character
+- Station cannot send:
 	- Government prohibited communication of this nature
-	- news
-	- advertisement
-	- communications of a business or non-experimental character
-	- messages for pecuniary / monetary reward
-	- messages for or on behalf of a third party
+	- News
+	- Advertisement
+	- Communications of a business or non-experimental character
+	- Messages for pecuniary / monetary reward
+	- Messages for or on behalf of a third party
 - Before making any call or test transmission, the frequency on which it is proposed to transmit should be monitored to ensure the transmission will not cause interference to other stations
 - Calling other station
-	- call-sign of that stations shall be sent `3 ≤ times ≤ 8`
-	- signal **de** for **from** shall be sent `once`
-	- call-sign of the calling station `3 times`
-	- call sent `3 times` at interval of `2 minutes`
-	- calling shall cease and may not be resumed until after an interval `15 minutes`
-- conversant with the accepted international Q codes
-- call sign must be sent for identification purpose at the beginning and end of each period of transmission
-- prefix for Singapore licensed stations is `9V`
+	- Call-sign of that stations shall be sent `3 ≤ times ≤ 8`
+	- Signal **de** for **from** shall be sent `once`
+	- Call-sign of the calling station `3 times`
+	- Call sent `3 times` at interval of `2 minutes`
+	- Calling shall cease and may not be resumed until after an interval `15 minutes`
+- Conversant with the accepted international Q codes
+- Call sign must be sent for identification purpose at the beginning and end of each period of transmission
+- Prefix for Singapore licensed stations is `9V`
 
 ### Telelphony
 
-- use international accepted **Phonetic Alphabet / figure guide**
-- words used in this manner will have a **lesser chance of improper interpretation**
+- Use international accepted **Phonetic Alphabet / figure guide**
+- Words used in this manner will have a **lesser chance of improper interpretation**
 
 ##### Phonetic Alphabet
 
@@ -164,21 +164,21 @@
 
 *"Grid" column (optional): [Maidenhead system](https://en.wikipedia.org/wiki/Maidenhead_Locator_System) for location*
 
-- **indelible** (of ink or a pen making marks that cannot be removed) record shall be kept in a log-book
-- **serially numbered**
-- **date and time of commencement and ending** of every call made from the station
-- call-signs of the stations from which messages addressed to
-- **time (local or GMT)** of the commencement and termination of radio traffic
-- **test transmissions** of the station
-- frequency band(s) and class or classes of emission in each case
-	- frequency in `MHz`
-	- mode `SSB, PSK`, etc
-	- band in `m`
-- no gaps shall be left between entries
-- all entries shall be made at the time of sending and receiving
-- the record shall be **signed** at the time of recording by the licensee
-- log book shall be kept for **at least 2 years**
-- be available for examination at all reasonable times by an authorised officer of IMDA
+- **Indelible** (of ink or a pen making marks that cannot be removed) record shall be kept in a log-book
+- **Serially numbered**
+- **Date and time of commencement and ending** of every call made from the station
+- Call-signs of the stations from which messages addressed to
+- **Time (local or GMT)** of the commencement and termination of radio traffic
+- **Test transmissions** of the station
+- Frequency band(s) and class or classes of emission in each case
+	- Frequency in `MHz`
+	- Mode `SSB, PSK`, etc
+	- Band in `m`
+- No gaps shall be left between entries
+- All entries shall be made at the time of sending and receiving
+- The record shall be **signed** at the time of recording by the licensee
+- Log book shall be kept for **at least 2 years**
+- Be available for examination at all reasonable times by an authorised officer of IMDA
 
 ### Interference
 
@@ -186,66 +186,66 @@
 - Operator **must not** cause any harmful interference to other authorised radio services or stations
 - In the case of interference, the licensee shall take all possible steps to eliminate the source of such interference
 - Precautions:
-	1. avoid over-modulation
-	1. keep the radiated energy within the narrowest possible frequency bands
-	1. radiation of harmonics and spurious emissions shall be suppressed
-- tests shall be made from time to time and details of those **tests shall be recorded** in the station log-book
+	1. Avoid over-modulation
+	1. Keep the radiated energy within the narrowest possible frequency bands
+	1. Radiation of harmonics and spurious emissions shall be suppressed
+- Tests shall be made from time to time and details of those **tests shall be recorded** in the station log-book
 - Adjustment of an amateur station shall, in general, be made by using a **dummy load**
 
 ### Portable / Mobile station
 
-- only operate in the frequency bands
-- only be allowed to operate in Singapore
-- mobile / portable station and the general station **cannot be operated simultaneously**
-- the call-sign = general station followed by `/M` or `/P`
-- transmitter output power of the portable station shall not exceed `10 watts (erp)`
-- licence may be modified or revoked at any time by IMDA without assigning any reason therefor
-- it is readily movable from place to place to be operated therefrom
-- station fee of $50.00 per mobile/portable station is **waived** unless the only station operated
-- station shall be closed down at any time on the demand of an authorised officer acting under the authority of IMDA
+- Only operate in the frequency bands
+- Only be allowed to operate in Singapore
+- Mobile / portable station and the general station **cannot be operated simultaneously**
+- The call-sign = general station followed by `/M` or `/P`
+- Transmitter output power of the portable station shall not exceed `10 watts (erp)`
+- Licence may be modified or revoked at any time by IMDA without assigning any reason therefor
+- It is readily movable from place to place to be operated therefrom
+- Station fee of $50.00 per mobile/portable station is **waived** unless the only station operated
+- Station shall be closed down at any time on the demand of an authorised officer acting under the authority of IMDA
 
 ### Frequency checking equipment in amateur stations
 
 - A licensee must:
-	- be able to verify that his transmissions are within the authorised frequency band
-	- no appreciable energy is radiated outside the band
-	- use a satisfactory method of frequency control
-	- transmissions do not contain unwanted frequencies
-	- transmission do not contain harmonics and spurious frequencies
-- station requires a **crystal reference source**
-	- with a transmitter (crystal-controlled)
-		- an absorption device of *suitable frequency range and accuracy* is necessary
-		- check that the desired harmonic of the crystal frequency is selected
-	- with a transmitter (not crystal-controlled)
-	 	- a wavemeter based on a crystal oscillator is necessary
+	- Be able to verify that his transmissions are within the authorised frequency band
+	- No appreciable energy is radiated outside the band
+	- Use a satisfactory method of frequency control
+	- Transmissions do not contain unwanted frequencies
+	- Transmission do not contain harmonics and spurious frequencies
+- Station requires a **crystal reference source**
+	- With a transmitter (crystal-controlled)
+		- An absorption device of *suitable frequency range and accuracy* is necessary
+		- Check that the desired harmonic of the crystal frequency is selected
+	- With a transmitter (not crystal-controlled)
+	 	- A wavemeter based on a crystal oscillator is necessary
 - Frequency measuring equipment
-	- should be of sufficient accuracy
-		- an accuracy of `±1.0%`: operation in the centre of the `21.0 MHz - 21.45 MHz` band
-		- an accuracy of `±0.05%`:operation within `10 kHz` of band-edge
-	- verify that emissions are within the authorised frequency bands
+	- Should be of sufficient accuracy
+		- An accuracy of `±1.0%`: operation in the centre of the `21.0 MHz - 21.45 MHz` band
+		- An accuracy of `±0.05%`:operation within `10 kHz` of band-edge
+	- Verify that emissions are within the authorised frequency bands
 - Heterodyne wavemeters and crystal calibrators
-	- frequencies up to `4 MHz`: `100 kHz` crystal is usually adequate
-	- higher frequencies: `500 kHz` crystal or preferably `1 MHz`
+	- Frequencies up to `4 MHz`: `100 kHz` crystal is usually adequate
+	- Higher frequencies: `500 kHz` crystal or preferably `1 MHz`
 - Absorption wavemeters and similar devices
-	- scale length and accuracy should be suitable for measurements of the required accuracy to be made
-	- the **frequency coverage** must extend up to the **second and preferably the third harmonic** of the radiated frequency
+	- Scale length and accuracy should be suitable for measurements of the required accuracy to be made
+	- The **frequency coverage** must extend up to the **second and preferably the third harmonic** of the radiated frequency
 	- For VHF and UHF transmitters
-		- best technique is to measure the frequency of the fundamental oscillator as accurately as possible
-		- use an absorption device to confirm that the wanted harmonic has been selected
+		- Best technique is to measure the frequency of the fundamental oscillator as accurately as possible
+		- Use an absorption device to confirm that the wanted harmonic has been selected
 	- VHF or UHF converter
-		- the calibration of the main receiver can be checked with sufficient accuracy
-		- also advisable to use an absorption wavemeter to check the measurement and to confirm that no unwanted radiations are present
+		- The calibration of the main receiver can be checked with sufficient accuracy
+		- Also advisable to use an absorption wavemeter to check the measurement and to confirm that no unwanted radiations are present
 
 ### Frequency bands, power and classes of emissions
 
 | Conditions | Frequency Bands <br> (in MHz) | Classes of Emission | Maximum DC Input Power | RF Output PEP <br> for A1, A2 and A3
 | ------ | ------ | ------ | ------ | ------ |
-| - shared by other services <br> - RTTY may not be used | `1.8 - 2.0` | A1A, A1B, <br> A2A, A2B <br><br> F1A, F1B, F2A, F2B <br><br> A3E, R3E, G3E, H3E, J3E, F3E | 10 watts | 26.67 watts
-| - shared by other services | `3.5 - 3.9` | same as above | 300 watts | 800 watts
+| - Shared by other services <br> - RTTY may not be used | `1.8 - 2.0` | A1A, A1B, <br> A2A, A2B <br><br> F1A, F1B, F2A, F2B <br><br> A3E, R3E, G3E, H3E, J3E, F3E | 10 watts | 26.67 watts
+| - Shared by other services | `3.5 - 3.9` | same as above | 300 watts | 800 watts
 | band `10.1 - 10.15` <br> is allocated on secondary basis | `7 - 7.10`, <br> `10.1 - 10.15`, <br> `14 - 14.35`, <br> `18.068 - 18.168`, <br> `21 - 21.45`, <br> `24.890 - 24.990`, <br> `28 - 29.7` | same as above | 300 watts | 800 watts
-| - need consent from IDA (include power, conditions, operations) <br> - CW operators use the lower band <br> - other classes of emission use the mid and upper band | `144 – 146` | same as above | - | 25 watts |
-| - need consent from IDA (include power, conditions, operations) <br> - only certain spot Frequencies are allocated in Amateur Service |  `430 – 440` | same as above | - | Table below
-| - band is allocated on secondary basis <br> - shared by other services <br> - Only certain spot frequencies are allocated for use through written application <br> - need consent from IDA (include power, conditions, operations) |  `1240 - 1300`, <br> `2300 - 2450`, <br> `3300 - 3500`, <br> `5650 - 5850`, <br> `10000 - 10500` | same as above | | Subject to licensing conditions
+| - Need consent from IDA (include power, conditions, operations) <br> - CW operators use the lower band <br> - Other classes of emission use the mid and upper band | `144 – 146` | same as above | - | 25 watts |
+| - Need consent from IDA (include power, conditions, operations) <br> - Only certain spot Frequencies are allocated in Amateur Service |  `430 – 440` | same as above | - | Table below
+| - Band is allocated on secondary basis <br> - Shared by other services <br> - Only certain spot frequencies are allocated for use through written application <br> - Need consent from IDA (include power, conditions, operations) |  `1240 - 1300`, <br> `2300 - 2450`, <br> `3300 - 3500`, <br> `5650 - 5850`, <br> `10000 - 10500` | same as above | | Subject to licensing conditions
 | same as above (24,000 - 24,050 only needs the consent) | `24,000 - 24,050` <br> `24,050 - 24,250` | same as above |  | Subject to licensing conditions
 | same as above | `2,350 - 2,400`, `5,700 - 5,800`, `10,050 - 10,450`| K1A, K2A, L2A, K2E and L3E | - | As above
 
@@ -314,8 +314,8 @@ More Examples:
 | 6 | Frequency Modulation | G3E | Telephony by phase modulation
 | |
 | 1 | Pulse Modulation | K1A | Telegraphy by on-off keying of a pulse carrier without modulating audio frequency
-| 2 | Pulse Modulation | K2A | - Telegraphy by on-off keying of a modulating audio frequency or frequencies or by on-off keying of a modulated pulse carrier <br> - the audio frequency or frequencies modulating the amplitude of the pulses.
-| 3 | Pulse Modulation | L2A | - Telegraphy by on-off keying of a modulating audio frequency or frequencies or by on- off keying of a modulated pulsed carrier <br> - the audio frequency of frequencies modulating the width (or duration) of the pulses.
+| 2 | Pulse Modulation | K2A | - Telegraphy by on-off keying of a modulating audio frequency or frequencies or by on-off keying of a modulated pulse carrier <br> - The audio frequency or frequencies modulating the amplitude of the pulses.
+| 3 | Pulse Modulation | L2A | - Telegraphy by on-off keying of a modulating audio frequency or frequencies or by on- Off keying of a modulated pulsed carrier <br> - The audio frequency of frequencies modulating the width (or duration) of the pulses.
 | 4 | Pulse Modulation | K2E | Telephony, amplitude modulated pulses
 | 5 | Pulse Modulation | L3E | Telephony, width (or duration) modulated pulses
 
