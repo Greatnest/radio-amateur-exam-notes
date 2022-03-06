@@ -28,16 +28,16 @@
 
 ## Formula
 
-- `E = ½(CV²)` where `E` is energy stored in capacitor
+- `E = ½(CV²)` where `E` is energy stored in capacitor,`C` is capacitance, `V` is voltage
 - `Q = CV` where `Q` is quantity of electricity, `C` is capacitance, `V` is voltage
 - `T = RC` where `T` is time constant, `C` is capacitance, `R` is resistance
 - `C = C₁ + C₂ + C₃` where `C` is total capacitance in parallel
 - `1/C = 1/C₁ + 1/C₂ + 1/C₃` where `C` is total capacitance in series
 - `RMS √2 = RMS x 1.414 = V (peak)` where `RMS` is the RMS / DC equivalent voltage, `1.414` is root 2, `V (peak)` is the maximum peak voltage
-- `ω = 2πf` where `ω` is angular rotation
+- `ω = 2π/T = 2πf` where `ω` is angular rotation, f is ordinary frequency, T is period
 - `Xc = 1/ωC = 1/(2πfC)` where `Xc` is capacitive reactive, `ω` is angular rotation
 - `Xc = V / I` where `Xc` is the reactive capacitance, `V` is the DC Voltage, `I` is the AC
-- `XL = ωL = 2πfL` where `XL` is inductive reactance
+- `XL = ωL = 2πfL` where `XL` is inductive reactance, L is inductance of coil (Henries)
 - `Z = √(R² + XL²)` where `Z` is impedance, `R` is resistance, `XL` is inductive reactance for an RL series circuit
 - `Z = √(R² + Xc²)` where `Z` is impedance, `R` is resistance, `Xc` is capacitive reactance for an RC series circuit
 - For an RLC series circuit:
@@ -132,12 +132,12 @@
 - 2 metals are connected by battery
 - Plate "B" is now negatively charged and repels so strongly that the current ceases
 - The plates have a  very  small capacitance for the storage of electricity
-- very important to  have  insulation  (dielectric) between the plates that will stand up to the voltage that is to be used
+- Very important to  have  insulation  (dielectric) between the plates that will stand up to the voltage that is to be used
 
 Capacitance of a capacitor is:
 
 - `∝` area of the plates
-- `1/∝` distance between the 2 plates
+- `1/∝` (inversely proportional) distance between the 2 plates
 - `∝` permittivity of the dielectric between the plates
 
 | Material  | Permittivity |

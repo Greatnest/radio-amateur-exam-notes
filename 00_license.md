@@ -30,48 +30,49 @@
 		- Radio Receivers and Transmitters
 		- Propagation and Aerials
 		- Measurement
-- 21 in Section I
-- 36 in Section II
+- Both need 60% to pass
+  - 21 in Section I
+  - 36 in Section II
 
 ---
 
 ### Qualification required of the holder of Amateur Station License
 
 - **Amateur Station Licence** for operating radio transmission/reception equipment.
-- pass **Radio Amateur's Examination** or qualification that is acceptable to IMDA
+- Oass **Radio Amateur's Examination** or qualification that is acceptable to IMDA
 - IMDA may refuse without any reason
 - Apply online via **Telcom Licensing System**
 - Documents required: citizenship, results of the exam / valid cert, station license
-- do not purchase equipment until it is approved
+- Do not purchase equipment until it is approved
 
 ### License fee
 
-- license is **renewable every 5 years**
-- license fee currently is $100 (General Class), $50 (Restricted Class)
-- license fee must be **paid within 7 days of expiry** of the license
+- License is **renewable every 5 years**
+- License fee currently is $100 (General Class), $50 (Restricted Class)
+- License fee must be **paid within 7 days of expiry** of the license
   - Late fees will be applicable afterwards.
 - IMDA has waived the frequency application, processing fee and annual frequency usage fee
 
 ### Amateur Station License
 
-- be over `21`
-- above `16`, the parents / guardian must sign off and be responsible for observation
--  radio amateur equipment is a model that is approved by IMDA
+- Be over `21`
+- Above `16`, the parents / guardian must sign off and be responsible for observation
+- Radio amateur equipment is a model that is approved by IMDA
 
 ### Operation of an Amateur Ratio Station
 
 - Observe and comply with
 	- relevant provisions of the Telecommunications (Radio-communication) Regulations
 	- relevant provisions of the Radio Regulations of the ITC
-- amateur station license shall be displayed, in close proximity of the equipment, at the station's licensed address
-- transmitting frequency bands allowed of an amateur radio station shall be at the discretion of IMDA
-- frequency within the limits prescribed by the Radio Regulations, annexed to ITC of the ITU
+- Amateur station license shall be displayed, in close proximity of the equipment, at the station's licensed address
+- Transmitting frequency bands allowed of an amateur radio station shall be at the discretion of IMDA
+- Frequency within the limits prescribed by the Radio Regulations, annexed to ITC of the ITU
 
 ### Transmitting power
 
-- power of the transmitter shall **not exceed** `300 watts (DC input)`
-- does **not cause radio frequency interference** to other licensed or authorised stations or networks or telecommunication installation or equipment
-- maximum RF output power allowed for the Restricted Class Station License is `10 watts (erp)`
+- Power of the transmitter shall **not exceed** `300 watts (DC input)`
+- Does **not cause radio frequency interference** to other licensed or authorised stations or networks or telecommunication installation or equipment
+- Maximum RF output power allowed for the Restricted Class Station License is `10 watts (erp)`
 
 ### Operational conditions for the Station
 
