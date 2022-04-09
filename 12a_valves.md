@@ -1,7 +1,7 @@
 # 12. Valves (or tubes)
 
 ## Definitions
-
+- **Cathode** = positive, **Anode** = negative
 - **Diode Valve** is a valve having two electrodes (Cathode and anode)
 - **Triode Valve** is a valve having three electrodes (Cathode, anode and control grid)
 - **Tetrode Valve** is a valve having four electrodes (Cathode, anode, control grid and screen grid)

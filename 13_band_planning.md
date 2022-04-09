@@ -15,7 +15,7 @@
 
 | Transmission | Frequency |
 | --- | ---
-| CW (Morse) | bottom 100 kHz (i.e. 3.5-3.6 MHz)
+| Continuous Wave (Morse) | bottom 100 kHz (i.e. 3.5-3.6 MHz)
 | RTTY (Teleprinters) | 3.6 MHz (3.59-3.62 MHz)
 | SSB (speech) | 3.6-3.9 MHz
 | SSTV (Slow Scan Television) | usually found about 235 kHz from the bottom of the band (i.e. 3.735 MHz)

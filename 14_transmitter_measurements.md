@@ -21,9 +21,9 @@
 
 ## Formula
 
-- `Gain = 10 log (output power / input power)` where `Gain` is in `dBW`, `output power` and `input power` is in `Watts`
-- `Gain = 20 log (output voltage / input voltage)` where `Gain` is in `dBV`, `output voltage` and `input voltage` is in `Volts`
-- `Gain = 20 log (output current / input current)` where `Gain` is in `dBV`, `output current` and `input current` is in `A`
+- `Gain = 10 log10 (output power / input power)` where `Gain` is in `dBW`, `output power` and `input power` is in `Watts`
+- `Gain = 20 log10 (output voltage / input voltage)` where `Gain` is in `dBV`, `output voltage` and `input voltage` is in `Volts`
+- `Gain = 20 log10 (output current / input current)` where `Gain` is in `dBV`, `output current` and `input current` is in `A`
 - `Gain = Gain(1) + Gain (2) - Cable loss` where `Gain` is total gain of 2 amplifiers put together in series one after another
 - `dBW = 10 log Watts`
 - `3db down on X = X/2` where `X` is power in `Watts`
