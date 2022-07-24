@@ -20,7 +20,8 @@
 ## AM (Amplitude Modulation) Transmitter
 
 - TODO: Make block diagram of transmitter and write description
-
+- 
+https://www.tutorialspoint.com/analog_communication/analog_communication_transmitters.htm
 
 ## SSB (Single Side-Band) Transmitter
 

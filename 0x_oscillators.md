@@ -35,3 +35,21 @@ TODO: [Clapp oscillator](https://en.wikipedia.org/wiki/Clapp_oscillator) - it ca
 - Circuit of a Colpitts Oscillator, using a series LC network:
 
  ![](img/osc_colpitts_lc.png)
+
+fout = 1 / (2 * pi * sqrt(L * Ct))
+
+Ct = total capacitance = (100 * 100 )/ (100 + 100) = 50, as capacitors are in series
+
+##### Clapp Oscillator
+With LC circuit
+
+![](img/transistor_clapp.jpg)
+
+With crystal
+
+![](img/clapp_with_crystal.png)
+
+fout = 1 / (2 * pi * sqrt(L * Ct))
+
+Ct = total capacitance = 1 / (1/C1 + 1/C2 + 1/C3)
+But C3 (extra one compared with colpitts) is usually much smaller so Ct = C3

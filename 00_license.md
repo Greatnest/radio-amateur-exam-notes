@@ -39,9 +39,9 @@
 ### Qualification required of the holder of Amateur Station License
 
 - **Amateur Station Licence** for operating radio transmission/reception equipment.
-- Oass **Radio Amateur's Examination** or qualification that is acceptable to IMDA
+- Pass **Radio Amateur's Examination** or qualification that is acceptable to IMDA
 - IMDA may refuse without any reason
-- Apply online via **Telcom Licensing System**
+- Apply online via **Telecoms Licensing System**
 - Documents required: citizenship, results of the exam / valid cert, station license
 - Do not purchase equipment until it is approved
 
@@ -94,7 +94,7 @@
 
 - Station may be operated at any time
 - Maximum of `10 minutes` of continuous transmission
-- Messages are
+- Messages that are
 	- Allowed
 		- Sent in plain language
 		- Relate solely to the licensee's experiments / personal affairs
@@ -114,7 +114,7 @@
 	- Signal **de** for **from** shall be sent `once`
 	- Call-sign of the calling station `3 times`
 	- Call sent `3 times` at interval of `2 minutes`
-	- Calling shall cease and may not be resumed until after an interval `15 minutes`
+	- Calling shall cease and may not be resumed until after an interval of `15 minutes`
 - Conversant with the accepted international Q codes
 - Call sign must be sent for identification purpose at the beginning and end of each period of transmission
 - Prefix for Singapore licensed stations is `9V`
@@ -199,7 +199,7 @@
 - Mobile / portable station and the general station **cannot be operated simultaneously**
 - The call-sign = general station followed by `/M` or `/P`
 - Transmitter output power of the portable station shall not exceed `10 watts (erp)`
-- Licence may be modified or revoked at any time by IMDA without assigning any reason therefor
+- Licence may be modified or revoked at any time by IMDA without assigning any reason thereforth
 - It is readily movable from place to place to be operated therefrom
 - Station fee of $50.00 per mobile/portable station is **waived** unless the only station operated
 - Station shall be closed down at any time on the demand of an authorised officer acting under the authority of IMDA

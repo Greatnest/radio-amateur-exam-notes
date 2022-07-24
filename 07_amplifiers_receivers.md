@@ -107,7 +107,7 @@ transistor would be destroyed due to incorrect biasing
 | Class-B | Half cycle `180°` | `θ = π` | `66.6%`
 | Class-AB | Slightly more than `180°` | `π < θ < 2π`
 | Class-C | Slightly less than `180°` | `θ < π` | `80%`
-| Class-D to T | ON-OFF non-linear switching | `θ = 0`
+| Class-D to T | ON-OFF non-linear switching | `θ = `
 
 ##### Class A amplifiers
 
